@@ -1,0 +1,14 @@
+
+Name: Сборка  и тестирование  компьютеров
+
+Name: Отслеживание расписания,  управление сборкой и тестированием
+Raskhod elektroenergii: 10.0
+
+Name: Сборка  настольных компьютеров
+Raskhod elektroenergii: 20.0
+
+Name: Сборка ноутбуков
+Raskhod elektroenergii: 25.0
+
+Name: Тестирование компьютеров
+Raskhod elektroenergii: 40.0
