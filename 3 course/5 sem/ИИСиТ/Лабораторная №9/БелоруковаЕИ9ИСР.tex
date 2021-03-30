@@ -1,0 +1,56 @@
+
+% "Тема 9. ИСР"
+
+\documentclass[a4paper,12pt]{article} % тип документа
+
+% report, book
+
+%  Русский язык
+
+\usepackage[T2A]{fontenc}			% кодировка
+\usepackage[utf8]{inputenc}			% кодировка исходного текста
+\usepackage[english,russian]{babel}	% локализация и переносы
+
+
+% Математика
+\usepackage{amsmath,amsfonts,amssymb,amsthm,mathtools} 
+
+
+\usepackage{wasysym}
+
+%Заговолок
+\author{Белорукова Елизавета, ИВТ, 3 курс, 1 подгруппа, Тема 9.}
+\title{ИСР. Таблица интегралов и дифференциалов}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+\newpage
+\section*{Таблица интегралов и дифференциалов}
+\Large
+\begin{tabular}{| l | l |}
+\hline
+\textbf{Интегралы} & \textbf{Дифференциалы} \\
+\hline
+$\int 0 \cdot dx = C$ & $d(c) = 0, c = const$\\[0.5cm]
+$\int dx = \int 1 \cdot dx = x + C $ & $d(x^n) = nx^{n-1}dx$\\[0.5cm]
+$\int x^n \cdot dx = \frac{x^{n+1}}{n+1} + C$, & $d(a^x) = a^x \cdot ln adx$\\
+$n \neq -1, x > 0$ & \\[0.5cm]
+$\int \frac{dx}{x} = ln|x| + C$ & $d(e^x) = e^xdx$\\[0.5cm]
+$\int a^x dx = \frac{a^x}{ln a} + C $ & $d(log_ax) = \frac{dx}{x ln a} $\\[0.5cm]
+$\int e^x dx = e^x + C $ & $d(ln x) = \frac{dx}{x} $\\[0.5cm]
+$\int sinxdx = -cosx + C $ & $d(sinx) = cosxdx $\\[0.5cm]
+$\int cosxdx = sinx + C $ & $d(cosx) = -sinxdx $\\[0.5cm]
+$\int \frac{dx}{sin^2x} = -ctgx + C$ & $d(\sqrt{x}) = \frac{dx}{2\sqrt{x}}$\\[0.5cm]
+$\int \frac{dx}{cos^2x} = tgx + C $ & $d(tgx) = \frac{dx}{cos^2x}$\\[0.5cm]
+$\int \frac{dx}{\sqrt{a^2-x^2}} = arcsin\frac{x}{a} + C, |x|<|a|$ & $d(ctgx) = -\frac{dx}{sin^2x}$\\[0.5cm]
+$\int \frac{dx}{a^2+x^2} = \frac{1}{a}arctg \frac{x}{a} + C $ & $d(arcsinx) = \frac{dx}{\sqrt{1-x^2}}$\\[0.5cm]
+$\int \frac{dx}{a^2-x^2} = \frac{1}{2a}ln|\frac{a+x}{a-x}| + C, |x| \neq a$ & $d(arccosx)=-\frac{dx}{\sqrt{1-x^2}}$\\[0.5cm]
+$\int \frac{dx}{\sqrt{x^2 \pm a^2}} = ln |x+ \sqrt{x^2\pm a^2}| + C$ & $d(arctgx)=\frac{dx}{1+x^2} $\\[0.5cm]
+& $d(shx)=chxdx$ \\[0.5cm]
+& $d(chx)=shxdx$ \\[0.5cm]
+\hline
+\end{tabular}
+
+\end{document}
