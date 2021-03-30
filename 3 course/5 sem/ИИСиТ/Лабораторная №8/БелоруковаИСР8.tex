@@ -1,0 +1,62 @@
+% "Тема 8. ИСР"
+
+\documentclass[a4paper,12pt]{article} % тип документа
+
+% report, book
+
+%  Русский язык
+
+\usepackage[T2A]{fontenc}			% кодировка
+\usepackage[utf8]{inputenc}			% кодировка исходного текста
+\usepackage[english,russian]{babel}	% локализация и переносы
+
+
+% Математика
+\usepackage{amsmath,amsfonts,amssymb,amsthm,mathtools} 
+
+
+\usepackage{wasysym}
+
+%Заговолок
+\author{Белорукова Елизавета, ИВТ, 3 курс, 1 подгруппа}
+\title{Тема 8. ИСР}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+\newpage
+\section{Команды для набора матриц в \LaTeX{}}
+
+\begin{tabular}{| l | l |}
+\hline
+\textbf{Назначение команды} & \textbf{Вид (написание) команды} \\
+\hline
+Матрица без скобок & \verb|\begin{matrix}|\\
+  & \verb|... & ...\\|\\
+  & \verb|... & ...\\|\\
+  & \verb|\end{matrix}|\\
+Матрица в квадратных скобках & \verb|\begin{bmatrix}|\\
+  & \verb|... & ...\\|\\
+  & \verb|... & ...\\|\\
+  & \verb|\end{bmatrix}|\\
+Матрица в фигурных скобках & \verb|\begin{Bmatrix}|\\
+  & \verb|... & ...\\|\\
+  & \verb|... & ...\\|\\
+  & \verb|\end{Bmatrix}|\\
+Матрица в круглых скобках & \verb|\begin{pmatrix}|\\
+  & \verb|... & ...\\|\\
+  & \verb|... & ...\\|\\
+  & \verb|\end{pmatrix}|\\
+Одинарный модуль & \verb|\begin{vmatrix}|\\
+  & \verb|... & ...\\|\\
+  & \verb|... & ...\\|\\
+  & \verb|\end{vmatrix}|\\
+Двойной модуль (норма) & \verb|\begin{Vmatrix}|\\
+  & \verb|... & ...\\|\\
+  & \verb|... & ...\\|\\
+  & \verb|\end{Vmatrix}|\\
+\hline
+\end{tabular}
+
+\end{document}
