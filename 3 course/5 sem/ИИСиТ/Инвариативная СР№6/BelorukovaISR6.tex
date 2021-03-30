@@ -1,0 +1,65 @@
+% "Тема 6. ИСР"
+
+\documentclass[a4paper,12pt]{article} % тип документа
+
+% report, book
+
+%  Русский язык
+
+\usepackage[T2A]{fontenc}			% кодировка
+\usepackage[utf8]{inputenc}			% кодировка исходного текста
+\usepackage[english,russian]{babel}	% локализация и переносы
+
+
+% Математика
+\usepackage{amsmath,amsfonts,amssymb,amsthm,mathtools} 
+
+
+\usepackage{wasysym}
+
+%Заговолок
+\author{Белорукова Елизавета, ИВТ, 3 курс, 1 подгруппа}
+\title{Инвариантная самостоятельная работа Таблица команд}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+\newpage
+\section{Команды форматирования в \LaTeX{}}
+
+\begin{tabular}{| l | l |}
+\hline
+\textbf{Назначение команды} & \textbf{Вид (написание) команды} \\
+\hline
+Переход на новую страницу & newpage \\
+Отступ между словами на одной строке & hspace\verb|{20pt} |\\
+Жирный шрифт & textbf  \\
+Курсив & textit \\
+Подчёркивание & underline \\
+Рамка & fbox \\
+Дефис & \verb|- | \\
+Тире & \verb|-- | \\
+Новый раздел & section \\
+Выравнивание по правому краю & flushright \\
+Выравнивание по центру & center \\
+Выравнивание по левой стороне & flushleft \\
+Самый маленький шрифт & tiny \\
+Шрифт чуть больше tiny & scriptsize \\
+Шрифт чуть больше scriptsize & footnotesize \\
+Шрифт чуть больше footnotesize & small \\
+Нормальный размер шрифта & normalsize \\
+Шрифт чуть больше normalsize & large \\
+Шрифт чуть больше large & Large \\
+Шрифт чуть больше Large & LARGE \\
+Шрифт чуть больше LARGE & huge или HUGE \\
+Маркированный список & begin\verb|{itemize}|\verb| \item ...| end\verb|{itemize}|\\
+Нумерованный список & begin\verb|{enumerate}|\verb| \item ...| end\verb|{enumerate}|\\
+Сноска & footnote \\
+Нижний регистр & \verb|_ | \\
+Верхний регистр & \verb|^ | \\
+Горизонтальная линия & hline \\
+\hline
+\end{tabular}
+
+\end{document}
