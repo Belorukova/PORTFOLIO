@@ -1,0 +1,102 @@
+object Form1: TForm1
+  Left = 288
+  Height = 240
+  Top = 151
+  Width = 248
+  BorderStyle = bsSingle
+  Caption = 'Калькулятор'
+  ClientHeight = 240
+  ClientWidth = 248
+  Color = 8421631
+  Position = poDesktopCenter
+  LCLVersion = '1.6.4.0'
+  object Edit1: TEdit
+    Left = 23
+    Height = 23
+    Top = 32
+    Width = 60
+    TabOrder = 0
+  end
+  object Edit2: TEdit
+    Left = 128
+    Height = 23
+    Top = 32
+    Width = 56
+    TabOrder = 1
+  end
+  object Label1: TLabel
+    Left = 22
+    Height = 15
+    Top = 9
+    Width = 78
+    Caption = 'Первое число'
+    ParentColor = False
+  end
+  object Label2: TLabel
+    Left = 127
+    Height = 15
+    Top = 9
+    Width = 76
+    Caption = 'Второе число'
+    ParentColor = False
+  end
+  object Edit3: TEdit
+    Left = 96
+    Height = 23
+    Top = 152
+    Width = 71
+    TabOrder = 2
+  end
+  object Label3: TLabel
+    Left = 16
+    Height = 15
+    Top = 160
+    Width = 56
+    Caption = 'Результат:'
+    ParentColor = False
+  end
+  object Label4: TLabel
+    Left = 8
+    Height = 15
+    Top = 200
+    Width = 232
+    Caption = 'Работу выполнила: Белорукова Елизавета'
+    ParentColor = False
+  end
+  object Button1: TButton
+    Left = 24
+    Height = 33
+    Top = 64
+    Width = 42
+    Caption = '+'
+    OnClick = Button1Click
+    TabOrder = 3
+  end
+  object Button2: TButton
+    Left = 80
+    Height = 33
+    Top = 64
+    Width = 42
+    Caption = '-'
+    OnClick = Button2Click
+    TabOrder = 4
+  end
+  object Button3: TButton
+    Left = 24
+    Height = 33
+    Top = 104
+    Width = 42
+    Caption = '*'
+    OnClick = Button3Click
+    TabOrder = 5
+  end
+  object Button4: TButton
+    Left = 80
+    Height = 33
+    Top = 104
+    Width = 42
+    Caption = '/'
+    OnClick = Button4Click
+    TabOrder = 6
+  end
+end
