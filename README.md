@@ -25,6 +25,7 @@
 5. [Операционные системы](https://github.com/Belorukova/PORTFOLIO/tree/main/2%20course/3%20sem/Операционные%20системы)
 6. [Физика](https://github.com/Belorukova/PORTFOLIO/tree/main/2%20course/3%20sem/Физика)
 7. [ЭВМ и ПУ](https://github.com/Belorukova/PORTFOLIO/tree/main/2%20course/3%20sem/ЭВМ%20и%20ПУ)
+8. [Программирование](https://github.com/Belorukova/belorukova.github.io#3-семестр)
 ## 4 семестр
 1. [Базы данных](https://github.com/Belorukova/PORTFOLIO/tree/main/2%20course/4%20sem/Базы%20данных)
 2. [Деловое общение](https://github.com/Belorukova/PORTFOLIO/tree/main/2%20course/4%20sem/Деловое%20общение)
@@ -32,8 +33,19 @@
 4. [ИТ в решении задач оптимизации](https://github.com/Belorukova/PORTFOLIO/tree/main/2%20course/4%20sem/ИТ%20в%20РЗО)
 5. [Технологии компьютерного моделирования](https://github.com/Belorukova/PORTFOLIO/tree/main/2%20course/4%20sem/ТКМ)
 6. [Курсовая работа](https://github.com/Belorukova/PORTFOLIO/tree/main/2%20course/4%20sem/Курсовая%20работа)
+7. [Программирование](https://github.com/Belorukova/belorukova.github.io#4-семестр)
+8. [Веб-проектирование](https://github.com/Belorukova/belorukova.github.io#4-семестр)
+9. [Компьютерный практикум](https://github.com/Belorukova/belorukova.github.io#4-семестр)
+10. [Обогощеные интерфейсы веб-приложениий](https://github.com/Belorukova/belorukova.github.io#4-семестр)
 # 3 курс
 ## 5 семестр
+1. [Прогаммирование](https://github.com/Belorukova/belorukova.github.io#5-семестр)
+2. [Управление программными проектами](https://github.com/Belorukova/belorukova.github.io#5-семестр)
+3. 
 ## 6 семестр
 1. [Инженерная и компьютерная графика](https://github.com/Belorukova/Ingener-komp_graph)
+2. [Программирование](https://github.com/Belorukova/belorukova.github.io#6-семестр)
 # 4 курс
+## 7 семестр
+1. [Программирование](https://github.com/Belorukova/belorukova.github.io#7-семестр)
+## 8 семестр
