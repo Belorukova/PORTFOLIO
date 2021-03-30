@@ -33,4 +33,7 @@
 5. [Технологии компьютерного моделирования](https://github.com/Belorukova/PORTFOLIO/tree/main/2%20course/4%20sem/ТКМ)
 6. [Курсовая работа](https://github.com/Belorukova/PORTFOLIO/tree/main/2%20course/4%20sem/Курсовая%20работа)
 # 3 курс
+## 5 семестр
+## 6 семестр
+1. [Инженерная и компьютерная графика]()
 # 4 курс
