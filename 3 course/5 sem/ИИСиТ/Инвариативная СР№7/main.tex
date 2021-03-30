@@ -1,0 +1,48 @@
+% "Тема 7. ИСР"
+
+\documentclass[a4paper,12pt]{article} % тип документа
+
+% report, book
+
+%  Русский язык
+
+\usepackage[T2A]{fontenc}			% кодировка
+\usepackage[utf8]{inputenc}			% кодировка исходного текста
+\usepackage[english,russian]{babel}	% локализация и переносы
+
+
+% Математика
+\usepackage{amsmath,amsfonts,amssymb,amsthm,mathtools} 
+
+
+\usepackage{wasysym}
+
+%Заговолок
+\author{Белорукова Елизавета, ИВТ, 3 курс, 1 подгруппа}
+\title{Инвариантная самостоятельная работа Таблица команд}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+\newpage
+\section{Команды для набора  используемых математических формул в \LaTeX{}}
+
+\begin{tabular}{| l | l |}
+\hline
+\textbf{Назначение команды} & \textbf{Вид (написание) команды} \\
+\hline
+Формула в линейном виде & \verb|\[ ...\]|\hspace{20pt}или\\
+  & \verb|$...$|\hspace{20pt}или\\
+  & \verb|\begin{math}...\end{math}|\hspace{20pt}или\\
+  & \verb|\begin{displaymath}...\end{displaymath}|\\
+Нумерация формул & \verb|\begin{equation}...\end{equation}|\\
+Нумерация формул со ссылками & \verb|\begin{equation} \label{...}|\\
+  & \verb|...\end{equation}|\\
+Ссылка на формулу & \verb|\eqref{...}|\\
+Нижний регистр & \verb|_{}|\\
+Верхний регистр & \verb|^{}|\\
+\hline
+\end{tabular}
+
+\end{document}
