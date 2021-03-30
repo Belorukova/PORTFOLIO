@@ -26,5 +26,11 @@
 6. [Физика](https://github.com/Belorukova/PORTFOLIO/tree/main/2%20course/3%20sem/Физика)
 7. [ЭВМ и ПУ](https://github.com/Belorukova/PORTFOLIO/tree/main/2%20course/3%20sem/ЭВМ%20и%20ПУ)
 ## 4 семестр
+1. [Базы данных](https://github.com/Belorukova/PORTFOLIO/tree/main/2%20course/4%20sem/Базы%20данных)
+2. [Деловое общение](https://github.com/Belorukova/PORTFOLIO/tree/main/2%20course/4%20sem/Деловое%20общение)
+3. [Основы компьютерной алгебры](https://github.com/Belorukova/PORTFOLIO/tree/main/2%20course/4%20sem/Основы%20КА)
+4. [ИТ в решении задач оптимизации](https://github.com/Belorukova/PORTFOLIO/tree/main/2%20course/4%20sem/ИТ%20в%20РЗО)
+5. [Технологии компьютерного моделирования](https://github.com/Belorukova/PORTFOLIO/tree/main/2%20course/4%20sem/ТКМ)
+6. [Курсовая работа](https://github.com/Belorukova/PORTFOLIO/tree/main/2%20course/4%20sem/Курсовая%20работа)
 # 3 курс
 # 4 курс
