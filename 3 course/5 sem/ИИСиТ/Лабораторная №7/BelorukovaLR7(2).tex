@@ -1,0 +1,51 @@
+% "Лабораторная работа 7. Задание 2"
+
+\documentclass[a4paper,12pt]{article} % тип документа
+
+% report, book
+
+%  Русский язык
+
+\usepackage[T2A]{fontenc}			% кодировка
+\usepackage[utf8]{inputenc}			% кодировка исходного текста
+\usepackage[english,russian]{babel}	% локализация и переносы
+
+
+% Математика
+\usepackage{amsmath,amsfonts,amssymb,amsthm,mathtools} 
+
+
+\usepackage{wasysym}
+\usepackage{hyperref}
+
+%Заговолок
+\author{Белорукова Елизавета, ИВТ, 3 курс, 1 подгруппа}
+\title{Особенности технологии создания текста с формулами. Задание 2}
+\date{\today}
+
+
+\begin{document} % начало документа
+\maketitle
+\newpage
+
+\begin{enumerate}
+\item \textbf{Вычислить значения функции y(x) для каждого x. Каэффициенты t, k, s являются константами и вводятся с клавиатуры. Значение x находится в интервале [ -25 ; 15 ] и изменяется с шагом 1.}
+
+\[y = t \cdot x^3 + k \cdot x + s\]
+
+\item \textbf{Изменяя значение переменной k (начальное значение k=1, шаг 1), найдите при каком k значение функции y(k) превысит 1200.}
+
+\[y = 2^{k+2} - 5\]
+
+\item \textbf{В данной функции w, n, c -- константы, x -- вводится с клавиатуры. Найти значение функции.}
+\begin{equation*}
+y = 
+ \begin{cases}
+   w^2\text{,при $x \geq 1.5$}\\
+   n \cdot x + 9\text{,при $x \in (-12 ; 1.5)$}\\
+   c - x\text{,при $x \leq -12$}\\
+ \end{cases}
+\end{equation*}
+
+\end{enumerate}
+\end{document} % конец документа
