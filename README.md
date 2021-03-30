@@ -41,10 +41,21 @@
 ## 5 семестр
 1. [Прогаммирование](https://github.com/Belorukova/belorukova.github.io#5-семестр)
 2. [Управление программными проектами](https://github.com/Belorukova/belorukova.github.io#5-семестр)
-3. 
+3. [ИТ в экономике](https://github.com/Belorukova/PORTFOLIO/tree/main/3%20course/5%20sem/ИТ%20в%20экономике)
+4. [ИТ менеджмент](https://github.com/Belorukova/PORTFOLIO/tree/main/3%20course/5%20sem/ИТ%20менеджмент)
+5. [ИТ в изучении иностранных языков](https://github.com/Belorukova/PORTFOLIO/tree/main/3%20course/5%20sem/ИТвиИЯ)
+6. [Сети и телекоммуникации](https://github.com/Belorukova/PORTFOLIO/tree/main/3%20course/5%20sem/СиТ)
+7. [Интегрированные издательские системы и технологии](https://github.com/Belorukova/PORTFOLIO/tree/main/3%20course/5%20sem/ИИСиТ)
+8. [Техника и технологии представления и публикации информации](https://github.com/Belorukova/PORTFOLIO/tree/main/3%20course/5%20sem/ТиТПиПИ)
 ## 6 семестр
 1. [Инженерная и компьютерная графика](https://github.com/Belorukova/Ingener-komp_graph)
 2. [Программирование](https://github.com/Belorukova/belorukova.github.io#6-семестр)
+3. [Защита информации](https://github.com/Belorukova/PORTFOLIO/tree/main/3%20course/6%20sem/Защита%20информации)
+4. [Основы корпоративного электронного обучения](https://github.com/Belorukova/PORTFOLIO/tree/main/3%20course/6%20sem/ОКЭО)
+5. [ПиТ](https://github.com/Belorukova/PORTFOLIO/tree/main/3%20course/6%20sem/ПИТ)
+6. [Правоведение](https://github.com/Belorukova/PORTFOLIO/tree/main/3%20course/6%20sem/Правоведение)
+7. [Экология](https://github.com/Belorukova/PORTFOLIO/tree/main/3%20course/6%20sem/Экология)
+8. [Физические основы микроэлектроники](https://github.com/Belorukova/PORTFOLIO/tree/main/3%20course/6%20sem/Электроника)
 # 4 курс
 ## 7 семестр
 1. [Программирование](https://github.com/Belorukova/belorukova.github.io#7-семестр)
