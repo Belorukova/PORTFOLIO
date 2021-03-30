@@ -1,0 +1,46 @@
+div{ 
+width:100%; 
+
+border: lpx solid black; 
+background-image: url("https://avatanplus.com/files/resources/mid/56a31b060b4d11526d218f9e.png"); 
+background-repeat: repeat-y; 
+background-position: right top; 
+background-size:10%;
+ background-color: #EBC7DF;
+
+} 
+p {
+color: brown;
+}
+th{
+	color: rgb(150,0,100);
+	font-size: 25px;
+}
+b{
+	color: red;
+	font-size: 25px;
+}
+li {
+	fort-weight: bold;
+	color: #1CD3A2;
+}
+ol{
+	color:#EA899A;
+	font-style: italic;
+}
+td{
+	color:#44944A;
+}
+a: link {
+	color:#177245;
+}
+a: visited {
+	color:#54FF9F;
+}
+a: hover {
+	color:#1F4037;
+}
+a: active {
+	color:#228B22;
+}
+
