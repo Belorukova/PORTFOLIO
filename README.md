@@ -59,12 +59,10 @@
 # 4 курс
 ## 7 семестр
 1. [Программирование](https://github.com/Belorukova/belorukova.github.io#7-семестр)
-2. [Практикум по программированию]()
-3. [Электронные информационно-образовательные среды]()
+2. [Практикум по программированию](https://github.com/Belorukova/Python-eve)
 ## 8 семестр
-1. [Информационные технологии оценки персонала]()
-2. [Мировые информационные ресурсы и цифровые библиотеки]()
-3. [Социальные и профессиональные вопросы информатики и ИТ]()
-4. [IT-рекрумент]()
-# Курсовые работы
-1. 
+1. [Информационные технологии оценки персонала](https://github.com/Belorukova/PORTFOLIO/tree/main/4%20course/8%20sem/ITOP)
+2. [Мировые информационные ресурсы и цифровые библиотеки](https://github.com/Belorukova/PORTFOLIO/tree/main/4%20course/8%20sem/MITaCB)
+3. [Социальные и профессиональные вопросы информатики и ИТ](https://github.com/Belorukova/PORTFOLIO/tree/main/4%20course/8%20sem/SPVIIT)
+4. [IT-рекрумент](https://github.com/Belorukova/PORTFOLIO/tree/main/4%20course/8%20sem/IT-rec)
+
